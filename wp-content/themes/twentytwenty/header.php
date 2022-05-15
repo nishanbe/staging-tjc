@@ -14,7 +14,7 @@
 <html class="no-js" <?php language_attributes(); ?>>
 
 	<head>
-
+    <h1>This is a custom</h1>
 		<meta charset="<?php bloginfo( 'charset' ); ?>">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" >
 
