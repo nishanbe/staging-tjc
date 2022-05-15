@@ -14,7 +14,7 @@
 <html class="no-js" <?php language_attributes(); ?>>
 
 	<head>
-    <h1>This is a custom</h1>
+
 		<meta charset="<?php bloginfo( 'charset' ); ?>">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" >
 
@@ -31,7 +31,7 @@
 		?>
 
 		<header id="site-header" class="header-footer-group">
-
+            <h1>This is a custom</h1>
 			<div class="header-inner section-inner">
 
 				<div class="header-titles-wrapper">
