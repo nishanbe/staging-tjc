@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="staging-tjc" />
+  <component name="PublishConfigData" autoUpload="Always" serverName="staging-tjc">
+    <serverData>
+      <paths name="staging-tjc">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$/wp-content/themes/twentytwenty" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
 </project>
