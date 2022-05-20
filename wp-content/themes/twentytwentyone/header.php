@@ -28,6 +28,6 @@
 	<?php get_template_part( 'template-parts/header/site-header' ); ?>
 
 	<div id="content" class="site-content">
-        <h1>Testing - Boyda</h1>
+        <h1>Testing - BoydaK</h1>
 		<div id="primary" class="content-area">
 			<main id="main" class="site-main">
